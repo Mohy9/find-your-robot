@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Made by Jakub using one of the Udemy courses.
+Made by Jakub using one of the Udemy courses. Demo is possible to see on that link:
+https://mohy9.github.io/find-your-robot/
 
 ## Available Scripts
 
